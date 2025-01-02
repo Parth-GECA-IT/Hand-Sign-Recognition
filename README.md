@@ -27,8 +27,8 @@ pip install tensorflow==2.13.0rc0 tensorflow-gpu==2.12.0 opencv-python mediapipe
 
 ### 1. Clone the Repository
 ```bash
-git clone <repository_url>
-cd <repository_folder>
+git clone https://github.com/Parth-GECA-IT/Hand-Sign-Recognition.git
+cd Hand-Sign-Recognition
 ```
 
 ### 2. Install Dependencies
